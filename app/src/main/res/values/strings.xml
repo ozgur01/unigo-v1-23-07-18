@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UniGo_v1</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_main_konular">Konular</string>
+    <string name="button_main_istatistikler">İstatistikler</string>
+    <string name="button_main_puan_hesaplama">Puan Hesaplama</string>
+    <string name="button_main_geri_sayim">Geri Sayım</string>
+    <string name="button_main_cikmis_sorular">Çıkmış Sorular</string>
+    <string name="button_main_calisma_programi">Çalışma Programı</string>
+</resources>
